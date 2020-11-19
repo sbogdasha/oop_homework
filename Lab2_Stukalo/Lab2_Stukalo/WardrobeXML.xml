@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Clothing>
+  <Wardrobe
+    Brand = "Puma x Ader"
+    Type = "Puffer jacket"
+    Fabric = "Goose down"
+    Color = " Black"
+    Season = "Fall/Winter">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Gap"
+    Type = "Puffer jacket"
+    Fabric = "Goose down"
+    Color ="Black"
+    Season = "Spring/Summer">
+  </Wardrobe>
+    <Wardrobe
+    Brand = "Adidas"
+    Type = "Windbreaker"
+    Fabric = "Nylon"
+    Color ="Magenta"
+    Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Cav Empt"
+    Type = "Fur jacket"
+    Fabric = "Sherpa"
+    Color ="Black"
+    Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Nike x Supreme"
+    Type = "Sweater"
+    Fabric = "Acryl"
+    Color ="Cream white"
+    Season = "Fall/Winter">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Gosha Rubchinskiy"
+    Type = "Sweatshirt"
+    Fabric = "Cotton"
+    Color ="Grey"
+    Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Ader Error"
+    Type = "Turtleneck"
+    Fabric = "Acryl"
+    Color ="Cream white"
+    Season = "Fall/Winter">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Puma x Ader"
+    Type = "Sweatshirt"
+    Fabric = "Cotton"
+    Color ="Sand yellow"
+    Season = "Fall/Winter">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Gleb Kostin Solutions"
+    Type = "Sweater"
+    Fabric = "Merino Wool"
+    Color ="Sand yellow"
+    Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Cav Empt"
+    Type = "T-shirt"
+    Fabric = "Heavyweight cotton"
+    Color ="Black"
+    Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Nike"
+    Type = "Long sleeve shirt"
+    Fabric = "Polyester"
+    Color ="Black"
+    Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+  Brand = "Bogema Leningrad"
+  Type = "T-shirt"
+  Fabric = "Cotton"
+  Color ="Grey"
+  Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Zara"
+    Type = "Jeans"
+    Fabric = "Jeans"
+    Color ="Washed black"
+    Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+  Brand = "Zara"
+  Type = "Trousers"
+  Fabric = "Polyester"
+  Color ="Black"
+  Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Jordan"
+    Type = "High-top"
+    Fabric = "Suede leather"
+    Color ="Cool gray"
+    Season = "Fall/Winter">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Nike"
+    Type = "Low-top"
+    Fabric = "Textile"
+    Color ="Black"
+    Season = "Spring/Summer">
+  </Wardrobe>
+  <Wardrobe
+    Brand = "Yeezy"
+    Type = "Low-top"
+    Fabric = "Primeknit"
+    Color ="Grey"
+    Season = "Spring/Summer">
+  </Wardrobe>
+</Clothing>

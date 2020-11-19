@@ -1,0 +1,9 @@
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\bin\Debug\Lab2_Stukalo.exe.config
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\bin\Debug\Lab2_Stukalo.exe
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\bin\Debug\Lab2_Stukalo.pdb
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\obj\Debug\Lab2_Stukalo.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\obj\Debug\Lab2_Stukalo.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\obj\Debug\Lab2_Stukalo.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\obj\Debug\Lab2_Stukalo.exe
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\obj\Debug\Lab2_Stukalo.pdb
+C:\Users\Bogdan\Desktop\Lab2_Stukalo\Lab2_Stukalo\obj\Debug\Lab2_Stukalo.Form1.resources
